@@ -1,6 +1,4 @@
-# win10_update_disabler_script-ps
-
-A small utility written on PowerShell to disable annoying updates in Windows 10.
+A small script written on PowerShell to disable annoying updates in Windows 10.
 Can be run as a standalone script manually or through the Task Scheduler.
 
 # Warnings!
