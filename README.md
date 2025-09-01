@@ -52,8 +52,10 @@ Tab 'Actions':
 ## For enabling updates
 Put PsExec.exe to 'reset' folder and run init_enabler.bat with admin privileges.
 
-# Notes
-The utility is still in BETA and undergoing testing. It has been tested and confirmed to work on the Windows 10 LTSC (21H2) and Windows Server 2022.
+### Tested on:
+- Windows 10 LTSC (21H2)
+- Windows Server 2022
+- Windows Server 2025
 
 # License
 MIT
